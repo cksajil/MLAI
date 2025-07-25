@@ -1,18 +1,18 @@
 # 📘 MLAI IRP June 2025
 Reference repository containing a list of topics across various sessions from the Machine Learning and Artificial Intelligence Industry Readiness Program 2025 course at ICT Academy of Kerala.
 
-| **No.** | **Session Name**                                                                     | **Notes** | **Notebook** |
-|:-------:|--------------------------------------------------------------------------------------|:---------:|:------------:|
-|    1    | Life Skills #1                                                                       |           |              |
-|    2    | IT Foundation for MLAI                                                               |           |              |
-|    3    | Design Thinking 1                                                                    |           |              |
-|    4    | Design Thinking 2                                                                    |           |              |
-|    5    | Software Development Life Cycle                                                      |           |              |
-|    6    | Introduction to MLAI                                                                 |           |              |
-|    7    | Python Programming: Setting UP                                                       |           |              |
-|    8    | Python Basics – Syntax, Data Types, I/O                                              |           |              |
-|    9    | Flow Control, Loops, Functions                                                       |           |              |
-|    10   | OOPs: Classes, Objects, Inheritance, File Handling                                   |           |              |
+| **No.** | **Session Name**                                                                     | **Notes**                            | **Notebook** |
+|:-------:|--------------------------------------------------------------------------------------|:------------------------------------:|:------------:|
+|    1    | Life Skills #1                                                                       | [session_01.md](notes/session_01.md) |              |
+|    2    | IT Foundation for MLAI                                                               | [session_02.md](notes/session_02.md) |              |
+|    3    | Design Thinking 1                                                                    | [session_03.md](notes/session_03.md) |              |
+|    4    | Design Thinking 2                                                                    | [session_04.md](notes/session_04.md) |              |
+|    5    | Software Development Life Cycle                                                      | [session_05.md](notes/session_05.md) |              |
+|    6    | Introduction to MLAI                                                                 | [session_06.md](notes/session_06.md) |              |
+|    7    | Python Programming: Setting UP                                                       | [session_07.md](notes/session_07.md) |              |
+|    8    | Python Basics – Syntax, Data Types, I/O                                              | [session_08.md](notes/session_08.md) |              |
+|    9    | Flow Control, Loops, Functions                                                       | [session_09.md](notes/session_09.md) |              |
+|    10   | OOPs: Classes, Objects, Inheritance, File Handling                                   | [session_10.md](notes/session_10.md) |              |
 |    11   | ML Libraries: Numpy and Pandas                                                       |           |              |
 |    12   | Visualization Libraries: Matplotlib & Seaborn                                        |           |              |
 |    13   | Introduction to Scikit-learn & Core ML API                                           |           |              |
